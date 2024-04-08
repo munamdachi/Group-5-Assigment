@@ -31,3 +31,25 @@ SN 	AUDIENCE 	DESCRIPTION
 4	Clients	Clients include individuals or organizations seeking to buy, sell, rent, or lease properties. They use the REMS to search for properties, communicate with agents, track transactions, and access relevant documents and information.
 
 5	Administrators	Administrators are responsible for managing user accounts, permissions, and system settings. They use the REMS to configure the system, monitor user activity, and ensure smooth operation.
+
+
+Intended use: 
+
+The intended use of a Real Estate Management System (REMS) is to provide a comprehensive and efficient platform for managing various aspects of real estate operations. The system facilitates communication, collaboration, and transaction management among real estate agents, brokers, property managers, clients, and other stakeholders. Here are the primary intended uses of a REMS: 
+	Property Listing and Management
+	Client Interaction and Relationship Management
+	Reporting and Analytics
+	Transaction Tracking and Management:
+	Property Management
+
+Definitions and acronyms:
+
+
+	REMS: Real Estate Management System
+	CRM: Customer Relationship Management
+	MLS: Multiple Listing Service
+	API: Application Programming Interface
+	SQL: Structured Query Language
+	HTML: Hypertext Markup Language
+	CSS: Cascading Style Sheets
+	JavaScript: JS
