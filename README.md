@@ -17,3 +17,17 @@ Here are some key values that a REMS can provide:
 Efficiency 
 Data driven decisions 
 Customer reach 
+
+Intended audience: 
+
+Describe your ideal audience. They will dictate the look and feel of your product and how you market it. 
+SN 	AUDIENCE 	DESCRIPTION 
+1	Real Estate Agents	Agents are one of the primary users of a REMS. They use the system to manage property listings, communicate with clients, track transactions, and perform other day-to-day tasks related to their role.
+
+2	Brokers	 Brokers oversee the activities of real estate agents and often manage multiple agents and properties. They use the REMS to monitor transactions, generate reports, and ensure compliance with regulations.
+
+3	Property Managers	Property managers are responsible for overseeing rental properties on behalf of owners. They use the REMS to manage tenant information, track rent payments, schedule maintenance tasks, and monitor property performance.
+
+4	Clients	Clients include individuals or organizations seeking to buy, sell, rent, or lease properties. They use the REMS to search for properties, communicate with agents, track transactions, and access relevant documents and information.
+
+5	Administrators	Administrators are responsible for managing user accounts, permissions, and system settings. They use the REMS to configure the system, monitor user activity, and ensure smooth operation.
